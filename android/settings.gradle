@@ -1,0 +1,3 @@
+rootProject.name = 'ReactiveCalculator'
+
+include ':app'
